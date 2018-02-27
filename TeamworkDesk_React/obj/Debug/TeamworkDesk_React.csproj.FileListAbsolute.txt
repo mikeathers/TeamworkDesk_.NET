@@ -1,0 +1,65 @@
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\TeamworkDesk_React.dll.config
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\TeamworkDesk_React.dll
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\TeamworkDesk_React.pdb
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\Microsoft.Web.Infrastructure.dll
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\Newtonsoft.Json.dll
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\System.Net.Http.Formatting.dll
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\System.Web.Helpers.dll
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\System.Web.Http.dll
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\System.Web.Http.WebHost.dll
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\System.Web.Mvc.dll
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\System.Web.Razor.dll
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\System.Web.Webpages.Deployment.dll
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\System.Web.Webpages.dll
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\System.Web.Webpages.Razor.dll
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\System.Web.Razor.xml
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\System.Web.Webpages.xml
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\System.Web.Webpages.Deployment.xml
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\System.Web.Webpages.Razor.xml
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\System.Web.Helpers.xml
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\System.Web.Mvc.xml
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\Newtonsoft.Json.xml
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\System.Net.Http.Formatting.xml
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\System.Web.Http.xml
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\System.Web.Http.WebHost.xml
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\obj\Debug\TeamworkDesk_React.csprojResolveAssemblyReference.cache
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\obj\Debug\TeamworkDesk_React.csproj.CoreCompileInputs.cache
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\obj\Debug\TeamworkDesk_React.dll
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\obj\Debug\TeamworkDesk_React.pdb
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\System.Web.Cors.dll
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\System.Web.Http.Cors.dll
+e:\visual studio 2017\Projects\TeamworkDesk_React\TeamworkDesk_React\bin\System.Web.Http.Cors.xml
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\TeamworkDesk_React.dll.config
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\TeamworkDesk_React.dll
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\TeamworkDesk_React.pdb
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\Microsoft.Web.Infrastructure.dll
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\Newtonsoft.Json.dll
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\System.Net.Http.Formatting.dll
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\System.Web.Cors.dll
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\System.Web.Helpers.dll
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\System.Web.Http.Cors.dll
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\System.Web.Http.dll
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\System.Web.Http.WebHost.dll
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\System.Web.Mvc.dll
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\System.Web.Razor.dll
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\System.Web.Webpages.Deployment.dll
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\System.Web.Webpages.dll
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\System.Web.Webpages.Razor.dll
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\System.Web.Http.Cors.xml
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\System.Web.Razor.xml
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\System.Web.Webpages.xml
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\System.Web.Webpages.Deployment.xml
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\System.Web.Webpages.Razor.xml
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\System.Web.Helpers.xml
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\System.Web.Mvc.xml
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\Newtonsoft.Json.xml
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\System.Net.Http.Formatting.xml
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\System.Web.Http.xml
+C:\Development\Teamwork_.NET\TeamworkDesk_React\bin\System.Web.Http.WebHost.xml
+C:\Development\Teamwork_.NET\TeamworkDesk_React\obj\Debug\TeamworkDesk_React.csprojResolveAssemblyReference.cache
+C:\Development\Teamwork_.NET\TeamworkDesk_React\obj\Debug\TeamworkDesk_React.dll
+C:\Development\Teamwork_.NET\TeamworkDesk_React\obj\Debug\TeamworkDesk_React.pdb
